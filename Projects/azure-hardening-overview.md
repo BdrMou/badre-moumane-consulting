@@ -1,7 +1,7 @@
 # Azure Hardening Overview
 
 ## 📌 Objective
-High-level hardening of Azure resources with focus on identity, network, and security posture management.
+High-level hardening of Azure resources with focus on identity, network, and security posture management. 
 
 ## 🧩 Scope
 - Azure AD integration  
