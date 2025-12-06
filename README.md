@@ -83,6 +83,6 @@ Real-world documentation:
 
 ## 📬 Contact
 **Email:** badre.moumane@cypher-one.com  
-**LinkedIn:** (add your link here)  
+**LinkedIn:** https://www.linkedin.com/in/badre-moumane-361724179/
 
 ---
