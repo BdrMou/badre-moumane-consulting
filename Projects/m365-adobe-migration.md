@@ -4,7 +4,7 @@
 Led a large-scale migration of users, files, and licensing workflows from legacy environments to Microsoft 365 and Adobe Cloud for an enterprise public-sector client.
 
 ## 🧩 Scope
-- 3,000+ users migrated  
+- 50,000+ users migrated  
 - Adobe Admin Console restructuring  
 - Microsoft 365 identity synchronization  
 - Access governance redesign  
