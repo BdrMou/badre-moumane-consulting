@@ -24,7 +24,8 @@ This repository highlights my technical capabilities, hands-on experience, and r
 ## 🏆 Certifications
 - Microsoft SC-300 – Identity & Access Administrator  
 - Microsoft SC-500 – Microsoft Cybersecurity Architect  
-- Microsoft AZ-500 – Azure Security Technologies  
+- Microsoft AZ-500 – Azure Security Technologies
+- Microsoft MS-100 — Identity and Services
 - CompTIA Security+  
 - Fortinet NSE 1 & NSE 2 – Cybersecurity Foundations  
 - Cisco Cybersecurity  
